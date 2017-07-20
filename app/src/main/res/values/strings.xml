@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application 2</string>
+    <string name="card_1">TCS ACHIVEMENTS WILL APPEAR HERE</string>
+    <string name="card_2">YOUR PROJECT</string>
+    <string name="card_3">Do\'s and Don\'ts</string>
+    <string name="card_4">Important Contact Authorities</string>
+    <string name="card_5">Campus Overview</string>
+    <string name="card_1a">Do You Know???</string>
+    
+</resources>
